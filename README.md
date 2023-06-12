@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Company application**
 
-- 💬 Ask me about **Android with java**
+- 💬 Ask me about **java**
 
 - 📫 How to reach me **chodisettihenry256@gmail.com**
 
